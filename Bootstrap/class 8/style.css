@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,900&family=Praise&display=swap');
+.navbar{
+    background-color: red !important;
+    
+}
+
+.b1{
+    border: 2px solid red;
+}
+
+.head{
+    border: 2px solid green;
+}
+
+h1{
+   
+    font-family: 'Praise', cursive;
+}
+.myface{
+    
+    
+    color: blue;
+}
+
+
+.pk1{
+     color: green;
+
+}
