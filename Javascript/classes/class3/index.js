@@ -79,3 +79,11 @@ const myevent = () => {
 
 
 }
+
+
+const changeImg = () => {
+    let myimg = document.getElementById("myimg")
+    console.log(myimg)
+
+    myimg.src = "bike.jfif"
+}
